@@ -1,0 +1,14 @@
+.tarjeta-personal{
+  padding: 1.2rem;
+  margin: 2rem;
+  padding-top: 0rem;
+  width: 45vw;
+  border: 2px solid #3B0E80;
+  background-color: #312835dc;
+  border-radius: 1rem;
+}
+
+
+.Tecnologias{
+  text-align: left;
+}

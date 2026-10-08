@@ -1,0 +1,23 @@
+.lista-tarjetas {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 1rem;
+  padding: 2rem;
+}
+
+.tarjeta-libro {
+  width: 250px;
+  padding: 1.2rem;
+  border: 2px solid #0e4380;
+  background-color: #283135dc;
+  border-radius: 1rem;
+}
+
+.tarjeta-libro h2 {
+  margin-top: 0;
+}
+
+.tarjeta-libro p {
+  line-height: 1.5;
+}

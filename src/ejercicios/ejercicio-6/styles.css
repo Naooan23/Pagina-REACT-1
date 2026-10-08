@@ -1,0 +1,27 @@
+.catalogo {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1rem;
+  padding: 2rem;
+}
+
+.catalogo input {
+  width: 300px;
+  padding: 0.6rem;
+}
+
+.catalogo button,
+.catalogo select {
+  padding: 0.5rem 1rem;
+}
+
+.lista-compacta {
+  list-style: none;
+  padding: 0;
+}
+
+.lista-compacta li {
+  cursor: pointer;
+  padding: 0.5rem;
+}
